@@ -1,0 +1,11 @@
+{
+    "name": "@verikono/qrts",
+    "version": "0.1.0",
+    "type": "module",
+    "devDependencies": {
+        "esbuild": "^0.20",
+        "typescript": "^5.4",
+        "vite": "^5.1",
+        "vitest": "^1.4"
+    }
+}
